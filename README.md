@@ -1,1 +1,3 @@
-# Yancy_L_Wood_J_DynamicTeamPage
+## Dynamic Team Page
+
+Authors: Liam Yancy, John Wood
