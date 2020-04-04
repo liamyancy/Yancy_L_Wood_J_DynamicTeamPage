@@ -51,7 +51,17 @@ p {
 	height: 500px;
 	background-color: black;
 	border-radius: 10px;
+	transition: .6s;
+	opacity: 90%;
 }
+
+.teamImages img:hover {
+	transition: .6s;
+	filter: contrast(1.1);
+	filter: saturate(1.25);
+	opacity:100%;
+	cursor: pointer;
+	}
 
 .memberInfo {
 	width: 800px;
