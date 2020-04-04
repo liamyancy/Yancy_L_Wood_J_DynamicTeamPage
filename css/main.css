@@ -1,0 +1,51 @@
+@charset "UTF-8"
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	margin: 0 auto;
+	max-width: 1200px;
+}
+
+h1 {
+	text-align: center;
+}
+
+.teamMembers {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.teamMembers h2 {
+	margin: 0 auto;
+}
+
+.teamImages {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin: 10px 50px 40px 50px;
+}
+
+.teamImages img {
+	width: 500px;
+	height: 500px;
+	background-color: black;
+}
+
+.memberInfo {
+
+}
+
+.generalInfo {
+	width: 1090px;
+	height: 190px;
+	margin-left: 50px;
+	margin-top: 40px;
+	padding: 5px;
+	background-color: black;
+}
